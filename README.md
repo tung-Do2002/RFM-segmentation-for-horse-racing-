@@ -21,6 +21,8 @@ The analysis dives into RWWA’s financial performance for 2021-2022, identifyin
 - **Explore** new growth areas, including e-sports betting.
 
 ## Data Insights
+![image](https://github.com/user-attachments/assets/d608377c-56c2-4c1c-8520-33bfc3466535)
+
 - **Revenue Decline**: RWWA's revenue decreased by **11.1% YoY**, with turnover dropping from **$1.1 billion** in 2021 to **$910 million** in 2022.
 - **Turnover Trends**: After a steep decline in January 2022 from **$107M** to **$78M**, total turnover showed recovery, reaching **$111M** by July.
 - **Product Performance**:
@@ -28,15 +30,15 @@ The analysis dives into RWWA’s financial performance for 2021-2022, identifyin
   - **Sports Betting**: Dropped by **12.44%**.
   - **Pari Racing**: Decreased by **4.89%**.
 
-![Turnover and Dividend-Paid Chart](link_to_chart)
 
 ## Customer Segments
+![image](https://github.com/user-attachments/assets/94effea9-dec9-4001-9853-2029f7159c94)
+
 Using K-means clustering, customers are segmented into three categories:
 - **Light Customers** (64.41% of bettors): Average turnover of **$167M** in 2022, down by **4.7%** from 2021.
 - **Middle-Usage Customers** (23.07% of bettors): Contribute **51.12%** of revenue but faced a **$90M** decline in turnover in 2022.
 - **Heavy Customers** (12.52% of bettors): Contributed **31.96%** of revenue, though their average turnover per customer dropped from **$213k** in 2021 to **$177k** in 2022.
 
-![Customer Segment Distribution](link_to_chart)
 
 ## Strategies and Recommendations
 ### 3R Strategy: **Regain, Retain, Re-Trust**
@@ -54,6 +56,9 @@ Using K-means clustering, customers are segmented into three categories:
 - **E-Sports Betting**: Consider expanding into e-sports betting. The sector has shown **10% annual growth** in Australia, with a projected revenue of **$113.2M** by 2028.
 
 ## Forecasting and Risks
+![image](https://github.com/user-attachments/assets/40ea77ce-d872-47d7-96d8-8a8d6010fc61)
+
+
 - **Seasonal Trends**: Using SARIMAX modeling, revenue shows seasonal peaks, especially in November each year.
 - **Risk Management**:
   - **Product Cannibalization**: Developing strategies to prevent overlap between betting categories.
